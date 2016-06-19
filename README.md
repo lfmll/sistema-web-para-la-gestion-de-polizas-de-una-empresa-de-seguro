@@ -5,4 +5,4 @@ cuenta con una base de datos redactado en mysql y modelado en la herramienta CAS
 Y modelo generado a traves del framework laravel con la arquitectura MVC
 Toda la aplicacion podra ejecutarse desde el APP Engine de Google.
 
-[mas informacion en mi email](luisfernandomedinallorenti@gmail.com)
+[preguntas en mi email](luisfernandomedinallorenti@gmail.com)
